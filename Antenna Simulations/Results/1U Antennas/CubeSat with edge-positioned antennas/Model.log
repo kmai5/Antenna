@@ -1,0 +1,6 @@
+Box2.nec wavelength=14.08 mtr.
+
+Error: Wire 51 (tag 51), seg-len ( (0.012) ) below wlen/1000 (0.014)
+Warn.: Wire 51, seg 99 (tag 51), len/rad at junction (3.015) below 6.
+Error: Wire 52 (tag 52), seg-len ( (0.012) ) below wlen/1000 (0.014)
+Warn.: Wire 52, seg 124 (tag 52), len/rad at junction (3.015) below 6.
