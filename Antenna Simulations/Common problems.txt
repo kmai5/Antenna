@@ -1,0 +1,9 @@
+Common Problems:
+
+15m_70cm 2U - edge-positioned antennas.nec wavelength=14.28 mtr.
+
+Error: Wire 51 (tag 7001), seg-len ( (0.014) ) below wlen/1000 (0.014)
+Error: Wire 52 (tag 7002), seg-len ( (0.014) ) below wlen/1000 (0.014)
+
+Solution:
+Change the segmententation and close all windows to refresh the simulation, then rerun the simulation with the new increased segment length.
