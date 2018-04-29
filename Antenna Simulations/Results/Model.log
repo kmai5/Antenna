@@ -1,1232 +1,618 @@
 TapeMeasure.nec wavelength=3.e5 mtr.
 
-Error: Wire 1, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 2, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 3, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 4, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 5, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 6, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 7, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 8, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 9, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 10, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 11, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 12, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 13, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 14, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 15, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 16, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 17, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 18, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 19, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 20, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 21, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 22, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 23, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 24, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 25, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 26, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 27, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 28, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 29, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 30, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 31, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 32, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 33, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 34, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 35, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 36, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 37, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 38, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 39, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 40, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 41, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 42, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 43, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 44, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 45, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 46, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 47, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 48, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 49, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 50, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 51, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 52, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 53, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 54, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 55, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 56, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 57, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 58, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 59, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 60, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 61, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 62, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 63, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 64, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 65, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 66, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 67, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 68, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 69, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 70, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 71, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 72, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 73, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 74, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 75, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 76, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 77, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 78, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 79, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 80, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 81, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 82, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 83, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 84, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 85, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 86, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 87, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 88, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 89, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 89, seg 89, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 239
-Error: Wire 90, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 90, seg 90, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 259
-Error: Wire 91, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 91, seg 91, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 279
-Error: Wire 92, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 92, seg 92, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 299
-Error: Wire 93, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 93, seg 93, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 319
-Error: Wire 94, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 94, seg 94, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 339
-Error: Wire 95, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 95, seg 95, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 359
-Error: Wire 96, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 96, seg 96, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 379
-Error: Wire 97, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 97, seg 97, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 399
-Error: Wire 98, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 98, seg 98, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 419
-Error: Wire 99, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 99, seg 99, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 439
-Error: Wire 99, seg 99, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 459
-Error: Wire 100, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 100, seg 100, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 240
-Error: Wire 101, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 101, seg 101, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 260
-Error: Wire 102, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 102, seg 102, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 280
-Error: Wire 103, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 103, seg 103, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 300
-Error: Wire 104, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 104, seg 104, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 320
-Error: Wire 105, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 105, seg 105, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 340
-Error: Wire 106, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 106, seg 106, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 360
-Error: Wire 107, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 107, seg 107, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 380
-Error: Wire 108, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 108, seg 108, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 400
-Error: Wire 109, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 109, seg 109, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 420
-Error: Wire 110, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 110, seg 110, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 440
-Error: Wire 110, seg 110, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 460
-Error: Wire 111, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 111, seg 111, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 241
-Error: Wire 112, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 112, seg 112, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 261
-Error: Wire 113, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 113, seg 113, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 281
-Error: Wire 114, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 114, seg 114, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 301
-Error: Wire 115, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 115, seg 115, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 321
-Error: Wire 116, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 116, seg 116, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 341
-Error: Wire 117, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 117, seg 117, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 361
-Error: Wire 118, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 118, seg 118, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 381
-Error: Wire 119, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 119, seg 119, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 401
-Error: Wire 120, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 120, seg 120, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 421
-Error: Wire 121, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 121, seg 121, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 441
-Error: Wire 121, seg 121, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 461
-Error: Wire 122, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 122, seg 122, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 242
-Error: Wire 123, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 123, seg 123, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 262
-Error: Wire 124, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 124, seg 124, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 282
-Error: Wire 125, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 125, seg 125, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 302
-Error: Wire 126, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 126, seg 126, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 322
-Error: Wire 127, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 127, seg 127, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 342
-Error: Wire 128, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 128, seg 128, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 362
-Error: Wire 129, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 129, seg 129, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 382
-Error: Wire 130, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 130, seg 130, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 402
-Error: Wire 131, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 131, seg 131, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 422
-Error: Wire 132, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 132, seg 132, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 442
-Error: Wire 132, seg 132, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 462
-Error: Wire 133, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 133, seg 133, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 243
-Error: Wire 134, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 134, seg 134, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 263
-Error: Wire 135, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 135, seg 135, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 283
-Error: Wire 136, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 136, seg 136, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 303
-Error: Wire 137, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 137, seg 137, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 323
-Error: Wire 138, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 138, seg 138, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 343
-Error: Wire 139, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 139, seg 139, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 363
-Error: Wire 140, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 140, seg 140, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 383
-Error: Wire 141, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 141, seg 141, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 403
-Error: Wire 142, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 142, seg 142, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 423
-Error: Wire 143, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 143, seg 143, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 443
-Error: Wire 143, seg 143, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 463
-Error: Wire 144, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 144, seg 144, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 244
-Error: Wire 145, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 145, seg 145, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 264
-Error: Wire 146, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 146, seg 146, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 284
-Error: Wire 147, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 147, seg 147, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 304
-Error: Wire 148, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 148, seg 148, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 324
-Error: Wire 149, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 149, seg 149, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 344
-Error: Wire 150, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 150, seg 150, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 364
-Error: Wire 151, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 151, seg 151, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 384
-Error: Wire 152, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 152, seg 152, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 404
-Error: Wire 153, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 153, seg 153, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 424
-Error: Wire 154, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 154, seg 154, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 444
-Error: Wire 154, seg 154, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 464
-Error: Wire 155, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 156, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 157, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 158, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 159, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 160, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 161, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 162, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 163, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 164, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 165, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 166, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 167, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 168, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 169, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 170, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 171, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 172, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 173, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 174, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 175, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 176, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 177, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 178, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 179, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 180, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 181, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 182, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 183, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 184, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 185, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 186, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 187, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 188, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 189, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 190, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 191, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 192, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 193, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 194, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 195, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 196, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 197, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 198, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 199, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 200, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 201, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 202, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 203, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 204, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 205, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 206, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 207, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 208, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 209, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 210, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 211, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 212, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 213, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 214, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 215, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 216, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 217, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 218, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 219, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 220, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 221, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 222, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 223, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 224, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 225, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 226, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 227, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 228, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 229, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 230, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 231, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 232, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 233, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 234, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 235, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 236, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 237, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 238, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 239, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 239, seg 239, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 78
-Error: Wire 240, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 240, seg 240, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 89
-Error: Wire 241, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 241, seg 241, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 100
-Error: Wire 242, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 242, seg 242, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 111
-Error: Wire 243, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 243, seg 243, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 122
-Error: Wire 244, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 244, seg 244, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 133
-Error: Wire 245, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 246, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 247, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 248, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 249, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 250, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 251, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 252, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 253, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 254, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 255, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 256, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 257, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 258, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 259, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 259, seg 259, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 78
-Error: Wire 260, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 260, seg 260, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 89
-Error: Wire 261, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 261, seg 261, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 100
-Error: Wire 262, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 262, seg 262, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 111
-Error: Wire 263, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 263, seg 263, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 122
-Error: Wire 264, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 264, seg 264, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 133
-Error: Wire 265, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 266, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 267, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 268, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 269, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 270, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 271, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 272, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 273, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 274, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 275, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 276, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 277, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 278, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 279, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 279, seg 279, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 79
-Error: Wire 280, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 280, seg 280, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 90
-Error: Wire 281, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 281, seg 281, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 101
-Error: Wire 282, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 282, seg 282, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 112
-Error: Wire 283, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 283, seg 283, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 123
-Error: Wire 284, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 284, seg 284, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 134
-Error: Wire 285, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 286, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 287, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 288, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 289, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 290, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 291, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 292, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 293, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 294, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 295, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 296, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 297, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 298, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 299, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 299, seg 299, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 80
-Error: Wire 300, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 300, seg 300, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 91
-Error: Wire 301, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 301, seg 301, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 102
-Error: Wire 302, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 302, seg 302, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 113
-Error: Wire 303, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 303, seg 303, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 124
-Error: Wire 304, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 304, seg 304, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 135
-Error: Wire 305, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 306, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 307, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 308, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 309, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 310, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 311, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 312, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 313, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 314, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 315, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 316, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 317, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 318, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 319, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 319, seg 319, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 81
-Error: Wire 320, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 320, seg 320, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 92
-Error: Wire 321, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 321, seg 321, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 103
-Error: Wire 322, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 322, seg 322, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 114
-Error: Wire 323, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 323, seg 323, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 125
-Error: Wire 324, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 324, seg 324, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 136
-Error: Wire 325, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 326, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 327, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 328, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 329, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 330, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 331, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 332, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 333, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 334, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 335, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 336, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 337, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 338, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 339, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 339, seg 339, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 82
-Error: Wire 340, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 340, seg 340, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 93
-Error: Wire 341, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 341, seg 341, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 104
-Error: Wire 342, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 342, seg 342, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 115
-Error: Wire 343, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 343, seg 343, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 126
-Error: Wire 344, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 344, seg 344, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 137
-Error: Wire 345, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 346, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 347, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 348, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 349, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 350, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 351, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 352, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 353, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 354, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 355, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 356, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 357, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 358, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 359, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 359, seg 359, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 83
-Error: Wire 360, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 360, seg 360, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 94
-Error: Wire 361, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 361, seg 361, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 105
-Error: Wire 362, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 362, seg 362, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 116
-Error: Wire 363, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 363, seg 363, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 127
-Error: Wire 364, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 364, seg 364, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 138
-Error: Wire 365, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 366, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 367, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 368, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 369, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 370, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 371, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 372, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 373, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 374, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 375, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 376, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 377, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 378, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 379, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 379, seg 379, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 84
-Error: Wire 380, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 380, seg 380, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 95
-Error: Wire 381, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 381, seg 381, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 106
-Error: Wire 382, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 382, seg 382, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 117
-Error: Wire 383, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 383, seg 383, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 128
-Error: Wire 384, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 384, seg 384, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 139
-Error: Wire 385, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 386, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 387, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 388, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 389, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 390, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 391, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 392, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 393, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 394, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 395, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 396, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 397, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 398, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 399, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 399, seg 399, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 85
-Error: Wire 400, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 400, seg 400, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 96
-Error: Wire 401, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 401, seg 401, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 107
-Error: Wire 402, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 402, seg 402, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 118
-Error: Wire 403, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 403, seg 403, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 129
-Error: Wire 404, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 404, seg 404, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 140
-Error: Wire 405, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 406, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 407, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 408, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 409, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 410, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 411, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 412, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 413, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 414, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 415, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 416, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 417, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 418, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 419, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 419, seg 419, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 86
-Error: Wire 420, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 420, seg 420, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 97
-Error: Wire 421, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 421, seg 421, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 108
-Error: Wire 422, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 422, seg 422, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 119
-Error: Wire 423, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 423, seg 423, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 130
-Error: Wire 424, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 424, seg 424, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 141
-Error: Wire 425, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 426, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 427, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 428, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 429, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 430, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 431, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 432, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 433, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 434, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 435, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 436, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 437, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 438, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 439, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 439, seg 439, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 87
-Error: Wire 440, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 440, seg 440, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 98
-Error: Wire 441, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 441, seg 441, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 109
-Error: Wire 442, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 442, seg 442, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 120
-Error: Wire 443, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 443, seg 443, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 131
-Error: Wire 444, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 444, seg 444, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 142
-Error: Wire 445, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 446, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 447, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 448, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 449, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 450, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 451, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 452, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 453, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 454, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 455, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 456, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 457, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 458, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 459, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 459, seg 459, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 88
-Error: Wire 460, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 460, seg 460, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 99
-Error: Wire 461, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 461, seg 461, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 110
-Error: Wire 462, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 462, seg 462, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 121
-Error: Wire 463, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 463, seg 463, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 132
-Error: Wire 464, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 464, seg 464, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 143
-Error: Wire 465, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 466, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 467, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 468, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 469, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 470, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 471 (tag 1), seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 472, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 473, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 474, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 475, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 476, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 477, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 478, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 479, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 480, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 481, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 482, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 483, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 484, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 485, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 486, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 487, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 488, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 489, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 490, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 491, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 492, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 493, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 494, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 495, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 496, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 497, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 498, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 499, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 500, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 501, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 502, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 503, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 504, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 505, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 506, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 507, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 508, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 509, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 510, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 511, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 512, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 513, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 514, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 515, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 516, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 517, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 518, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 519, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 520, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 521, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 522, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 523, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 524, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 525, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 526, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 527, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 528, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 529, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 530, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 531, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 532, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 533, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 534, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 535, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 536, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 537, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 538, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 539, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 540, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 541, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 542, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 543, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 544, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 545, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 546, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 547, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 548, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 549, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 550, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 551, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 552, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 553, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 554, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 555, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 556, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 557, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 558, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 559, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 560, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 560, seg 560, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 710
-Error: Wire 561, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 561, seg 561, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 730
-Error: Wire 562, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 562, seg 562, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 750
-Error: Wire 563, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 563, seg 563, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 770
-Error: Wire 564, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 564, seg 564, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 790
-Error: Wire 565, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 565, seg 565, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 810
-Error: Wire 566, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 566, seg 566, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 830
-Error: Wire 567, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 567, seg 567, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 850
-Error: Wire 568, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 568, seg 568, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 870
-Error: Wire 569, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 569, seg 569, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 890
-Error: Wire 570, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 570, seg 570, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 910
-Error: Wire 570, seg 570, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 930
-Error: Wire 571, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 571, seg 571, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 711
-Error: Wire 572, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 572, seg 572, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 731
-Error: Wire 573, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 573, seg 573, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 751
-Error: Wire 574, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 574, seg 574, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 771
-Error: Wire 575, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 575, seg 575, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 791
-Error: Wire 576, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 576, seg 576, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 811
-Error: Wire 577, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 577, seg 577, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 831
-Error: Wire 578, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 578, seg 578, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 851
-Error: Wire 579, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 579, seg 579, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 871
-Error: Wire 580, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 580, seg 580, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 891
-Error: Wire 581, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 581, seg 581, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 911
-Error: Wire 581, seg 581, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 931
-Error: Wire 582, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 582, seg 582, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 712
-Error: Wire 583, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 583, seg 583, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 732
-Error: Wire 584, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 584, seg 584, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 752
-Error: Wire 585, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 585, seg 585, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 772
-Error: Wire 586, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 586, seg 586, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 792
-Error: Wire 587, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 587, seg 587, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 812
-Error: Wire 588, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 588, seg 588, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 832
-Error: Wire 589, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 589, seg 589, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 852
-Error: Wire 590, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 590, seg 590, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 872
-Error: Wire 591, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 591, seg 591, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 892
-Error: Wire 592, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 592, seg 592, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 912
-Error: Wire 592, seg 592, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 932
-Error: Wire 593, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 593, seg 593, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 713
-Error: Wire 594, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 594, seg 594, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 733
-Error: Wire 595, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 595, seg 595, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 753
-Error: Wire 596, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 596, seg 596, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 773
-Error: Wire 597, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 597, seg 597, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 793
-Error: Wire 598, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 598, seg 598, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 813
-Error: Wire 599, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 599, seg 599, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 833
-Error: Wire 600, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 600, seg 600, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 853
-Error: Wire 601, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 601, seg 601, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 873
-Error: Wire 602, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 602, seg 602, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 893
-Error: Wire 603, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 603, seg 603, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 913
-Error: Wire 603, seg 603, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 933
-Error: Wire 604, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 604, seg 604, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 714
-Error: Wire 605, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 605, seg 605, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 734
-Error: Wire 606, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 606, seg 606, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 754
-Error: Wire 607, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 607, seg 607, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 774
-Error: Wire 608, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 608, seg 608, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 794
-Error: Wire 609, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 609, seg 609, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 814
-Error: Wire 610, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 610, seg 610, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 834
-Error: Wire 611, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 611, seg 611, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 854
-Error: Wire 612, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 612, seg 612, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 874
-Error: Wire 613, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 613, seg 613, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 894
-Error: Wire 614, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 614, seg 614, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 914
-Error: Wire 614, seg 614, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 934
-Error: Wire 615, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 615, seg 615, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 715
-Error: Wire 616, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 616, seg 616, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 735
-Error: Wire 617, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 617, seg 617, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 755
-Error: Wire 618, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 618, seg 618, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 775
-Error: Wire 619, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 619, seg 619, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 795
-Error: Wire 620, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 620, seg 620, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 815
-Error: Wire 621, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 621, seg 621, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 835
-Error: Wire 622, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 622, seg 622, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 855
-Error: Wire 623, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 623, seg 623, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 875
-Error: Wire 624, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 624, seg 624, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 895
-Error: Wire 625, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 625, seg 625, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 915
-Error: Wire 625, seg 625, seg-len (7.e-3) differs more than 5 * seg-len (1.e-3) for wire 935
-Error: Wire 626, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 627, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 628, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 629, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 630, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 631, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 632, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 633, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 634, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 635, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 636, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 637, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 638, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 639, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 640, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 641, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 642, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 643, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 644, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 645, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 646, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 647, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 648, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 649, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 650, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 651, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 652, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 653, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 654, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 655, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 656, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 657, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 658, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 659, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 660, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 661, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 662, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 663, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 664, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 665, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 666, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 667, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 668, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 669, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 670, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 671, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 672, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 673, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 674, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 675, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 676, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 677, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 678, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 679, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 680, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 681, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 682, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 683, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 684, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 685, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 686, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 687, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 688, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 689, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 690, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 691, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 692, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 693, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 694, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 695, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 696, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 697, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 698, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 699, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 700, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 701, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 702, seg-len ( (7.e-3) ) below wlen/1000 (299.8)
-Error: Wire 703, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 704, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 705, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 706, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 707, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 708, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 709, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 710, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 710, seg 710, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 549
-Error: Wire 711, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 711, seg 711, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 560
-Error: Wire 712, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 712, seg 712, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 571
-Error: Wire 713, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 713, seg 713, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 582
-Error: Wire 714, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 714, seg 714, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 593
-Error: Wire 715, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 715, seg 715, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 604
-Error: Wire 716, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 717, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 718, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 719, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 720, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 721, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 722, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 723, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 724, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 725, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 726, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 727, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 728, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 729, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 730, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 730, seg 730, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 549
-Error: Wire 731, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 731, seg 731, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 560
-Error: Wire 732, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 732, seg 732, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 571
-Error: Wire 733, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 733, seg 733, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 582
-Error: Wire 734, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 734, seg 734, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 593
-Error: Wire 735, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 735, seg 735, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 604
-Error: Wire 736, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 737, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 738, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 739, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 740, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 741, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 742, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 743, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 744, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 745, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 746, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 747, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 748, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 749, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 750, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 750, seg 750, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 550
-Error: Wire 751, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 751, seg 751, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 561
-Error: Wire 752, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 752, seg 752, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 572
-Error: Wire 753, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 753, seg 753, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 583
-Error: Wire 754, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 754, seg 754, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 594
-Error: Wire 755, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 755, seg 755, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 605
-Error: Wire 756, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 757, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 758, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 759, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 760, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 761, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 762, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 763, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 764, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 765, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 766, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 767, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 768, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 769, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 770, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 770, seg 770, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 551
-Error: Wire 771, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 771, seg 771, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 562
-Error: Wire 772, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 772, seg 772, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 573
-Error: Wire 773, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 773, seg 773, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 584
-Error: Wire 774, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 774, seg 774, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 595
-Error: Wire 775, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 775, seg 775, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 606
-Error: Wire 776, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 777, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 778, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 779, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 780, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 781, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 782, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 783, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 784, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 785, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 786, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 787, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 788, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 789, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 790, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 790, seg 790, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 552
-Error: Wire 791, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 791, seg 791, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 563
-Error: Wire 792, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 792, seg 792, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 574
-Error: Wire 793, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 793, seg 793, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 585
-Error: Wire 794, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 794, seg 794, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 596
-Error: Wire 795, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 795, seg 795, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 607
-Error: Wire 796, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 797, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 798, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 799, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 800, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 801, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 802, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 803, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 804, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 805, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 806, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 807, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 808, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 809, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 810, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 810, seg 810, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 553
-Error: Wire 811, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 811, seg 811, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 564
-Error: Wire 812, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 812, seg 812, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 575
-Error: Wire 813, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 813, seg 813, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 586
-Error: Wire 814, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 814, seg 814, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 597
-Error: Wire 815, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 815, seg 815, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 608
-Error: Wire 816, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 817, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 818, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 819, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 820, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 821, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 822, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 823, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 824, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 825, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 826, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 827, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 828, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 829, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 830, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 830, seg 830, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 554
-Error: Wire 831, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 831, seg 831, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 565
-Error: Wire 832, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 832, seg 832, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 576
-Error: Wire 833, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 833, seg 833, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 587
-Error: Wire 834, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 834, seg 834, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 598
-Error: Wire 835, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 835, seg 835, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 609
-Error: Wire 836, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 837, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 838, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 839, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 840, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 841, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 842, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 843, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 844, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 845, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 846, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 847, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 848, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 849, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 850, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 850, seg 850, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 555
-Error: Wire 851, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 851, seg 851, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 566
-Error: Wire 852, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 852, seg 852, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 577
-Error: Wire 853, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 853, seg 853, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 588
-Error: Wire 854, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 854, seg 854, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 599
-Error: Wire 855, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 855, seg 855, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 610
-Error: Wire 856, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 857, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 858, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 859, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 860, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 861, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 862, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 863, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 864, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 865, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 866, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 867, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 868, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 869, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 870, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 870, seg 870, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 556
-Error: Wire 871, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 871, seg 871, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 567
-Error: Wire 872, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 872, seg 872, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 578
-Error: Wire 873, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 873, seg 873, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 589
-Error: Wire 874, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 874, seg 874, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 600
-Error: Wire 875, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 875, seg 875, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 611
-Error: Wire 876, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 877, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 878, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 879, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 880, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 881, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 882, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 883, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 884, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 885, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 886, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 887, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 888, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 889, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 890, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 890, seg 890, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 557
-Error: Wire 891, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 891, seg 891, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 568
-Error: Wire 892, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 892, seg 892, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 579
-Error: Wire 893, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 893, seg 893, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 590
-Error: Wire 894, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 894, seg 894, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 601
-Error: Wire 895, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 895, seg 895, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 612
-Error: Wire 896, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 897, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 898, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 899, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 900, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 901, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 902, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 903, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 904, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 905, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 906, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 907, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 908, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 909, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 910, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 910, seg 910, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 558
-Error: Wire 911, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 911, seg 911, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 569
-Error: Wire 912, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 912, seg 912, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 580
-Error: Wire 913, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 913, seg 913, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 591
-Error: Wire 914, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 914, seg 914, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 602
-Error: Wire 915, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 915, seg 915, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 613
-Error: Wire 916, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 917, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 918, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 919, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 920, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 921, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 922, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 923, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 924, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 925, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 926, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 927, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 928, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 929, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 930, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 930, seg 930, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 559
-Error: Wire 931, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 931, seg 931, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 570
-Error: Wire 932, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 932, seg 932, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 581
-Error: Wire 933, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 933, seg 933, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 592
-Error: Wire 934, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 934, seg 934, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 603
-Error: Wire 935, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 935, seg 935, seg-len (1.e-3) differs more than 5 * seg-len (7.e-3) for wire 614
-Error: Wire 936, seg-len ( (1.e-3) ) below wlen/1000 (299.8)
-Error: Wire 937, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 938, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 939, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 940, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 941, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
-Error: Wire 942, seg-len ( (2.e-3) ) below wlen/1000 (299.8)
+Error: Wire 1, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 2, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 3, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 4, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 5, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 6, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 7, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 8, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 9, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 10, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 11, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 12, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 13, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 14, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 15, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 16, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 17, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 18, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 19, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 20, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 21, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 22, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 23, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 24, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 25, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 26, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 27, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 28, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 29, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 30, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 31, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 32, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 33, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 34, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 35, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 36, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 37, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 38, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 39, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 40, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 41, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 42, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 43, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 44, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 45, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 46, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 47, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 48, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 49, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 50, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 51, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 52, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 53, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 54, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 55, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 56, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 57, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 58, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 59, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 60, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 61, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 62, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 63, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 64, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 65, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 66, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 67, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 68, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 69, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 70, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 71, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 72, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 73, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 74, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 75, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 76, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 77, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 78, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 79, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 80, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 81, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 82, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 83, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 84, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 85, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 86, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 87, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 88, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 89, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 90, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 91, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 92, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 93, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 94, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 95, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 96, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 97, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 98, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 99, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 100, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 101, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 102, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 103, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 104, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 105, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 106, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 107, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 108, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 109, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 110, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 111, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 112, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 113, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 114, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 114, seg 114, len/rad at junction (5.392) below 6.
+Warn.: Wire 114, seg 114, len/rad at junction (5.392) below 6.
+Error: Wire 115, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 115, seg 115, len/rad at junction (5.02) below 6.
+Warn.: Wire 115, seg 115, len/rad at junction (5.02) below 6.
+Error: Wire 116, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 116, seg 116, len/rad at junction (5.02) below 6.
+Warn.: Wire 116, seg 116, len/rad at junction (5.02) below 6.
+Error: Wire 117, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 117, seg 117, len/rad at junction (5.392) below 6.
+Warn.: Wire 117, seg 117, len/rad at junction (5.392) below 6.
+Error: Wire 118, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 119, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 120, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 121, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 122, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 123, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 124, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 124, seg 124, len/rad at junction (5.392) below 6.
+Warn.: Wire 124, seg 124, len/rad at junction (5.392) below 6.
+Error: Wire 125, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 125, seg 125, len/rad at junction (5.02) below 6.
+Warn.: Wire 125, seg 125, len/rad at junction (5.02) below 6.
+Error: Wire 126, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 126, seg 126, len/rad at junction (5.02) below 6.
+Warn.: Wire 126, seg 126, len/rad at junction (5.02) below 6.
+Error: Wire 127, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 127, seg 127, len/rad at junction (5.392) below 6.
+Warn.: Wire 127, seg 127, len/rad at junction (5.392) below 6.
+Error: Wire 128, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 129, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 130, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 131, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 132, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 133, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 134, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 134, seg 134, len/rad at junction (5.392) below 6.
+Warn.: Wire 134, seg 134, len/rad at junction (5.392) below 6.
+Error: Wire 135, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 135, seg 135, len/rad at junction (5.02) below 6.
+Warn.: Wire 135, seg 135, len/rad at junction (5.02) below 6.
+Error: Wire 136, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 136, seg 136, len/rad at junction (5.02) below 6.
+Warn.: Wire 136, seg 136, len/rad at junction (5.02) below 6.
+Error: Wire 137, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 137, seg 137, len/rad at junction (5.392) below 6.
+Warn.: Wire 137, seg 137, len/rad at junction (5.392) below 6.
+Error: Wire 138, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 139, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 140, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 141, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 142, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 143, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 144, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 144, seg 144, len/rad at junction (5.392) below 6.
+Warn.: Wire 144, seg 144, len/rad at junction (5.392) below 6.
+Error: Wire 145, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 145, seg 145, len/rad at junction (5.02) below 6.
+Warn.: Wire 145, seg 145, len/rad at junction (5.02) below 6.
+Error: Wire 146, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 146, seg 146, len/rad at junction (5.02) below 6.
+Warn.: Wire 146, seg 146, len/rad at junction (5.02) below 6.
+Error: Wire 147, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 147, seg 147, len/rad at junction (5.392) below 6.
+Warn.: Wire 147, seg 147, len/rad at junction (5.392) below 6.
+Error: Wire 148, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 149, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 150, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 151, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 152, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 153, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 154, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 154, seg 154, len/rad at junction (5.392) below 6.
+Warn.: Wire 154, seg 154, len/rad at junction (5.392) below 6.
+Error: Wire 155, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 155, seg 155, len/rad at junction (5.02) below 6.
+Warn.: Wire 155, seg 155, len/rad at junction (5.02) below 6.
+Error: Wire 156, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 156, seg 156, len/rad at junction (5.02) below 6.
+Warn.: Wire 156, seg 156, len/rad at junction (5.02) below 6.
+Error: Wire 157, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 157, seg 157, len/rad at junction (5.392) below 6.
+Warn.: Wire 157, seg 157, len/rad at junction (5.392) below 6.
+Error: Wire 158, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 159, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 160, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 161, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 162, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 163, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 164, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 164, seg 164, len/rad at junction (5.392) below 6.
+Warn.: Wire 164, seg 164, len/rad at junction (5.392) below 6.
+Error: Wire 165, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 165, seg 165, len/rad at junction (5.02) below 6.
+Warn.: Wire 165, seg 165, len/rad at junction (5.02) below 6.
+Error: Wire 166, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 166, seg 166, len/rad at junction (5.02) below 6.
+Warn.: Wire 166, seg 166, len/rad at junction (5.02) below 6.
+Error: Wire 167, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 167, seg 167, len/rad at junction (5.392) below 6.
+Warn.: Wire 167, seg 167, len/rad at junction (5.392) below 6.
+Error: Wire 168, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 169, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 170, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 171, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 172, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 173, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 174, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 174, seg 174, len/rad at junction (5.392) below 6.
+Warn.: Wire 174, seg 174, len/rad at junction (5.392) below 6.
+Error: Wire 175, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 175, seg 175, len/rad at junction (5.02) below 6.
+Warn.: Wire 175, seg 175, len/rad at junction (5.02) below 6.
+Error: Wire 176, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 176, seg 176, len/rad at junction (5.02) below 6.
+Warn.: Wire 176, seg 176, len/rad at junction (5.02) below 6.
+Error: Wire 177, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 177, seg 177, len/rad at junction (5.392) below 6.
+Warn.: Wire 177, seg 177, len/rad at junction (5.392) below 6.
+Error: Wire 178, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 179, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 180, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 181, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 182, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 183, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 184, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 184, seg 184, len/rad at junction (5.392) below 6.
+Warn.: Wire 184, seg 184, len/rad at junction (5.392) below 6.
+Error: Wire 185, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 185, seg 185, len/rad at junction (5.02) below 6.
+Warn.: Wire 185, seg 185, len/rad at junction (5.02) below 6.
+Error: Wire 186, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 186, seg 186, len/rad at junction (5.02) below 6.
+Warn.: Wire 186, seg 186, len/rad at junction (5.02) below 6.
+Error: Wire 187, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 187, seg 187, len/rad at junction (5.392) below 6.
+Warn.: Wire 187, seg 187, len/rad at junction (5.392) below 6.
+Error: Wire 188, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 189, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 190, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 191, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 192, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 193, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 194, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 194, seg 194, len/rad at junction (5.392) below 6.
+Warn.: Wire 194, seg 194, len/rad at junction (5.392) below 6.
+Error: Wire 195, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 195, seg 195, len/rad at junction (5.02) below 6.
+Warn.: Wire 195, seg 195, len/rad at junction (5.02) below 6.
+Error: Wire 196, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 196, seg 196, len/rad at junction (5.02) below 6.
+Warn.: Wire 196, seg 196, len/rad at junction (5.02) below 6.
+Error: Wire 197, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 197, seg 197, len/rad at junction (5.392) below 6.
+Warn.: Wire 197, seg 197, len/rad at junction (5.392) below 6.
+Error: Wire 198, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 199, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 200, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 201, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 202, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 203, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 204, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 204, seg 204, len/rad at junction (5.392) below 6.
+Warn.: Wire 204, seg 204, len/rad at junction (5.392) below 6.
+Error: Wire 205, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 205, seg 205, len/rad at junction (5.02) below 6.
+Warn.: Wire 205, seg 205, len/rad at junction (5.02) below 6.
+Error: Wire 206, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 206, seg 206, len/rad at junction (5.02) below 6.
+Warn.: Wire 206, seg 206, len/rad at junction (5.02) below 6.
+Error: Wire 207, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 207, seg 207, len/rad at junction (5.392) below 6.
+Warn.: Wire 207, seg 207, len/rad at junction (5.392) below 6.
+Error: Wire 208, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 209, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 210, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 211, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 212, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 213, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 214, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 214, seg 214, len/rad at junction (5.392) below 6.
+Warn.: Wire 214, seg 214, len/rad at junction (5.392) below 6.
+Error: Wire 215, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 215, seg 215, len/rad at junction (5.02) below 6.
+Warn.: Wire 215, seg 215, len/rad at junction (5.02) below 6.
+Error: Wire 216, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 216, seg 216, len/rad at junction (5.02) below 6.
+Warn.: Wire 216, seg 216, len/rad at junction (5.02) below 6.
+Error: Wire 217, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 217, seg 217, len/rad at junction (5.392) below 6.
+Warn.: Wire 217, seg 217, len/rad at junction (5.392) below 6.
+Error: Wire 218, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 219, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 220 (tag 1), seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 221, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 222, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 223, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 224, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 225, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 226, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 227, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 228, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 229, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 230, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 231, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 232, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 233, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 234, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 235, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 236, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 237, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 238, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 239, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 240, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 241, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 242, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 243, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 244, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 245, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 246, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 247, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 248, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 249, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 250, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 251, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 252, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 253, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 254, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 255, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 256, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 257, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 258, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 259, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 260, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 261, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 262, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 263, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 264, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 265, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 266, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 267, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 268, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 269, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 270, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 271, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 272, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 273, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 274, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 275, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 276, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 277, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 278, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 279, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 280, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 281, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 282, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 283, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 284, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 285, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 286, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 287, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 288, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 289, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 290, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 291, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 292, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 293, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 294, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 295, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 296, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 297, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 298, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 299, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 300, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 301, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 302, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 303, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 304, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 305, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 306, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 307, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 308, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 309, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 310, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 311, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 312, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 313, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 314, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 315, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 316, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 317, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 318, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 319, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 320, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 321, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 322, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 323, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 324, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 325, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 326, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 327, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 328, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 329, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 330, seg-len ( (8.e-3) ) below wlen/1000 (299.8)
+Error: Wire 331, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 332, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 333, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 334, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 334, seg 334, len/rad at junction (5.392) below 6.
+Warn.: Wire 334, seg 334, len/rad at junction (5.392) below 6.
+Error: Wire 335, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 335, seg 335, len/rad at junction (5.02) below 6.
+Warn.: Wire 335, seg 335, len/rad at junction (5.02) below 6.
+Error: Wire 336, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 336, seg 336, len/rad at junction (5.02) below 6.
+Warn.: Wire 336, seg 336, len/rad at junction (5.02) below 6.
+Error: Wire 337, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 337, seg 337, len/rad at junction (5.392) below 6.
+Warn.: Wire 337, seg 337, len/rad at junction (5.392) below 6.
+Error: Wire 338, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 339, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 340, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 341, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 342, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 343, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 344, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 344, seg 344, len/rad at junction (5.392) below 6.
+Warn.: Wire 344, seg 344, len/rad at junction (5.392) below 6.
+Error: Wire 345, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 345, seg 345, len/rad at junction (5.02) below 6.
+Warn.: Wire 345, seg 345, len/rad at junction (5.02) below 6.
+Error: Wire 346, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 346, seg 346, len/rad at junction (5.02) below 6.
+Warn.: Wire 346, seg 346, len/rad at junction (5.02) below 6.
+Error: Wire 347, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 347, seg 347, len/rad at junction (5.392) below 6.
+Warn.: Wire 347, seg 347, len/rad at junction (5.392) below 6.
+Error: Wire 348, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 349, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 350, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 351, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 352, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 353, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 354, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 354, seg 354, len/rad at junction (5.392) below 6.
+Warn.: Wire 354, seg 354, len/rad at junction (5.392) below 6.
+Error: Wire 355, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 355, seg 355, len/rad at junction (5.02) below 6.
+Warn.: Wire 355, seg 355, len/rad at junction (5.02) below 6.
+Error: Wire 356, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 356, seg 356, len/rad at junction (5.02) below 6.
+Warn.: Wire 356, seg 356, len/rad at junction (5.02) below 6.
+Error: Wire 357, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 357, seg 357, len/rad at junction (5.392) below 6.
+Warn.: Wire 357, seg 357, len/rad at junction (5.392) below 6.
+Error: Wire 358, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 359, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 360, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 361, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 362, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 363, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 364, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 364, seg 364, len/rad at junction (5.392) below 6.
+Warn.: Wire 364, seg 364, len/rad at junction (5.392) below 6.
+Error: Wire 365, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 365, seg 365, len/rad at junction (5.02) below 6.
+Warn.: Wire 365, seg 365, len/rad at junction (5.02) below 6.
+Error: Wire 366, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 366, seg 366, len/rad at junction (5.02) below 6.
+Warn.: Wire 366, seg 366, len/rad at junction (5.02) below 6.
+Error: Wire 367, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 367, seg 367, len/rad at junction (5.392) below 6.
+Warn.: Wire 367, seg 367, len/rad at junction (5.392) below 6.
+Error: Wire 368, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 369, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 370, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 371, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 372, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 373, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 374, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 374, seg 374, len/rad at junction (5.392) below 6.
+Warn.: Wire 374, seg 374, len/rad at junction (5.392) below 6.
+Error: Wire 375, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 375, seg 375, len/rad at junction (5.02) below 6.
+Warn.: Wire 375, seg 375, len/rad at junction (5.02) below 6.
+Error: Wire 376, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 376, seg 376, len/rad at junction (5.02) below 6.
+Warn.: Wire 376, seg 376, len/rad at junction (5.02) below 6.
+Error: Wire 377, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 377, seg 377, len/rad at junction (5.392) below 6.
+Warn.: Wire 377, seg 377, len/rad at junction (5.392) below 6.
+Error: Wire 378, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 379, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 380, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 381, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 382, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 383, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 384, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 384, seg 384, len/rad at junction (5.392) below 6.
+Warn.: Wire 384, seg 384, len/rad at junction (5.392) below 6.
+Error: Wire 385, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 385, seg 385, len/rad at junction (5.02) below 6.
+Warn.: Wire 385, seg 385, len/rad at junction (5.02) below 6.
+Error: Wire 386, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 386, seg 386, len/rad at junction (5.02) below 6.
+Warn.: Wire 386, seg 386, len/rad at junction (5.02) below 6.
+Error: Wire 387, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 387, seg 387, len/rad at junction (5.392) below 6.
+Warn.: Wire 387, seg 387, len/rad at junction (5.392) below 6.
+Error: Wire 388, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 389, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 390, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 391, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 392, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 393, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 394, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 394, seg 394, len/rad at junction (5.392) below 6.
+Warn.: Wire 394, seg 394, len/rad at junction (5.392) below 6.
+Error: Wire 395, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 395, seg 395, len/rad at junction (5.02) below 6.
+Warn.: Wire 395, seg 395, len/rad at junction (5.02) below 6.
+Error: Wire 396, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 396, seg 396, len/rad at junction (5.02) below 6.
+Warn.: Wire 396, seg 396, len/rad at junction (5.02) below 6.
+Error: Wire 397, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 397, seg 397, len/rad at junction (5.392) below 6.
+Warn.: Wire 397, seg 397, len/rad at junction (5.392) below 6.
+Error: Wire 398, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 399, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 400, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 401, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 402, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 403, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 404, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 404, seg 404, len/rad at junction (5.392) below 6.
+Warn.: Wire 404, seg 404, len/rad at junction (5.392) below 6.
+Error: Wire 405, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 405, seg 405, len/rad at junction (5.02) below 6.
+Warn.: Wire 405, seg 405, len/rad at junction (5.02) below 6.
+Error: Wire 406, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 406, seg 406, len/rad at junction (5.02) below 6.
+Warn.: Wire 406, seg 406, len/rad at junction (5.02) below 6.
+Error: Wire 407, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 407, seg 407, len/rad at junction (5.392) below 6.
+Warn.: Wire 407, seg 407, len/rad at junction (5.392) below 6.
+Error: Wire 408, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 409, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 410, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 411, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 412, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 413, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 414, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 414, seg 414, len/rad at junction (5.392) below 6.
+Warn.: Wire 414, seg 414, len/rad at junction (5.392) below 6.
+Error: Wire 415, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 415, seg 415, len/rad at junction (5.02) below 6.
+Warn.: Wire 415, seg 415, len/rad at junction (5.02) below 6.
+Error: Wire 416, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 416, seg 416, len/rad at junction (5.02) below 6.
+Warn.: Wire 416, seg 416, len/rad at junction (5.02) below 6.
+Error: Wire 417, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 417, seg 417, len/rad at junction (5.392) below 6.
+Warn.: Wire 417, seg 417, len/rad at junction (5.392) below 6.
+Error: Wire 418, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 419, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 420, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 421, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 422, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 423, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 424, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 424, seg 424, len/rad at junction (5.392) below 6.
+Warn.: Wire 424, seg 424, len/rad at junction (5.392) below 6.
+Error: Wire 425, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 425, seg 425, len/rad at junction (5.02) below 6.
+Warn.: Wire 425, seg 425, len/rad at junction (5.02) below 6.
+Error: Wire 426, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 426, seg 426, len/rad at junction (5.02) below 6.
+Warn.: Wire 426, seg 426, len/rad at junction (5.02) below 6.
+Error: Wire 427, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 427, seg 427, len/rad at junction (5.392) below 6.
+Warn.: Wire 427, seg 427, len/rad at junction (5.392) below 6.
+Error: Wire 428, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 429, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 430, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 431, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 432, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 433, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 434, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 434, seg 434, len/rad at junction (5.392) below 6.
+Warn.: Wire 434, seg 434, len/rad at junction (5.392) below 6.
+Error: Wire 435, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 435, seg 435, len/rad at junction (5.02) below 6.
+Warn.: Wire 435, seg 435, len/rad at junction (5.02) below 6.
+Error: Wire 436, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 436, seg 436, len/rad at junction (5.02) below 6.
+Warn.: Wire 436, seg 436, len/rad at junction (5.02) below 6.
+Error: Wire 437, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Warn.: Wire 437, seg 437, len/rad at junction (5.392) below 6.
+Warn.: Wire 437, seg 437, len/rad at junction (5.392) below 6.
+Error: Wire 438, seg-len ( (3.e-3) ) below wlen/1000 (299.8)
+Error: Wire 439, seg-len ( (4.e-3) ) below wlen/1000 (299.8)
+Error: Wire 440, seg-len ( (4.e-3) ) below wlen/1000 (299.8)

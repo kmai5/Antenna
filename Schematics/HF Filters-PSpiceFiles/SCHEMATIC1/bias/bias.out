@@ -1,0 +1,112 @@
+
+**** 04/22/18 17:24:49 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\Users\K Mai\Documents\GitHub\Antenna\Schematics\hf filters-pspicefiles\schematic1\bias.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "bias.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\K Mai\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.AC DEC 1000 20Meg 32Meg
+.STEP LIN V_V1 1 1 1 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source HF FILTERS
+R_R1         0 N14846  50 TC=0,0 
+R_R2         N145461 N14552  50 TC=0,0 
+V_V1         N145461 0 DC 0Vdc AC 1Vac 
+L_L6         N15275 N15282  33n  
+C_C6         N15282 N15275  910p  TC=0,0 
+C_C7         0 N153591  39p  TC=0,0 
+L_L7         N15282 N153591  820n  
+L_L8         N15282 N15519  120n  
+C_C8         N15519 N15282  220p  TC=0,0 
+L_L11         N15519 N159641  470n  
+C_C11         0 N159641  62p  TC=0,0 
+L_L13         N14552 N15275  1.2n  
+C_C13         0 N15275  1p  TC=0,0 
+C_C14         N17125 N15519  220p  TC=0,0 
+L_L14         N15519 N17125  120n  
+L_L15         N17125 N172431  820n  
+C_C15         0 N172431  39p  TC=0,0 
+C_C16         N14846 N17125  910p  TC=0,0 
+L_L16         N17125 N14846  33n  
+
+**** RESUMING bias.cir ****
+.END
+
+**** 04/22/18 17:24:49 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\Users\K Mai\Documents\GitHub\Antenna\Schematics\hf filters-pspicefiles\schematic1\bias.sim ] 
+
+
+ ****     SMALL SIGNAL BIAS SOLUTION       TEMPERATURE =   27.000 DEG C
+
+ ****     CURRENT STEP                     V_V1 =    1     
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N14552)     .5000 (N14846)     .5000 (N15275)     .5000 (N15282)     .5000     
+
+(N15519)     .5000 (N17125)     .5000 (N145461)    1.0000                       
+
+(N153591)     .5000                   (N159641)     .5000                       
+
+(N172431)     .5000                   
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -1.000E-02
+
+    TOTAL POWER DISSIPATION   1.00E-02  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 04/22/18 17:24:49 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\Users\K Mai\Documents\GitHub\Antenna\Schematics\hf filters-pspicefiles\schematic1\bias.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+ ****     CURRENT STEP                     V_V1 =    1     
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .02
+

@@ -1,4 +1,2 @@
-15m_70cm dipole.NEC wavelength=14.02 mtr.
+15m dipole .NEC wavelength=14.02 mtr.
 
-Error: Wire 2, seg 26 (tag 2), EX-src: Not allowed near open wire-end.
-Error: Wire 2, seg 26 (tag 2), EX-src: Not allowed near open wire-end.

@@ -11,7 +11,7 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector)
-  (MPSSessionName "K Mai")
+  (MPSSessionName "Kevin Mai")
   (LastUsedLibraryBrowseDirectory
      "C:\Cadence\SPB_17.2\tools\capture\library\pspice")
   (GlobalState
@@ -30,11 +30,20 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
+<<<<<<< HEAD
         (Placement "44 2 3 -1 -1 -8 -31 52 1501 52 417")
         (Scroll "63 32")
         (Zoom "270")
         (Occurrence "/"))
       (Path
          "C:\USERS\K MAI\DOCUMENTS\GITHUB\ANTENNA\SCHEMATICS\ANTENNA BLOCK DIAGRAM.DSN")
+=======
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 511")
+        (Scroll "0 726")
+        (Zoom "286")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN MAI\DOCUMENTS\GITHUB\ANTENNA\SCHEMATICS\ANTENNA BLOCK DIAGRAM.DSN")
+>>>>>>> 2be8b3134488b84a715b38041003d6d9c9a29a66
       (Schematic "SCHEMATIC1")
       (Page "PAGE1"))))
